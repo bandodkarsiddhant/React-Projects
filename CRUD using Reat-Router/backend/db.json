@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "HTML",
+      "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
+      "id": 2
+    },
+    {
+      "title": "CSS",
+      "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+      "id": 3
+    },
+    {
+      "title": "Java",
+      "details": "as",
+      "id": 4
+    },
+    {
+      "title": "Java",
+      "details": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "id": 5
+    }
+  ]
+}
