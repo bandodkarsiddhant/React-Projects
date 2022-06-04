@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "uname": "juhunak",
+      "email": "kyfizuru@mailinator.com",
+      "pwd": "Pa$$w0rd!",
+      "id": 4
+    },
+    {
+      "uname": "Sid",
+      "email": "bandodkarsiddhant9@gmail.com",
+      "id": 5
+    },
+    {
+      "uname": "vyqibytoj",
+      "email": "rywikozix@mailinator.com",
+      "pwd": "Pa$$w0rd!",
+      "id": 6
+    },
+    {
+      "uname": "napufeny",
+      "email": "maby@mailinator.com",
+      "pwd": "Pa$$w0rd!",
+      "id": 7
+    }
+  ]
+}

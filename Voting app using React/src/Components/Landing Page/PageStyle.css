@@ -1,0 +1,58 @@
+.adminPage {
+  background-image: url(../../Assets/BackgroundImages/adminlogin.png);
+  background-position: 10%;
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+}
+
+.adminPageBody {
+  /* background-color: antiquewhite;  */
+  background: url(../../Assets/BackgroundImages/mesh-gradient1.png);
+}
+
+/* ==========================  create user page  =========================  */
+
+.createUserBody {
+  background: url(../../Assets/BackgroundImages/mesh-gradient2.png);
+}
+
+.createUser {
+  background-image: url(../../Assets/BackgroundImages/createuserbg.png);
+  background-position: 40%;
+  background-repeat: no-repeat;
+}
+
+/* =========================  vote page =========================== */
+
+.votePage {
+  height: 100vh;
+  /* margin-top: 0px; */
+  /* background-image: url(../../Assets/BackgroundImages/votebg.png); */
+  background-color:wheat ;
+  background-position: center;
+}
+
+.card{
+
+    border-radius: 30px;
+    background-color: #f5f5f3;
+    border: none;
+    box-shadow: 0 70px 63px -60px #000000
+}
+
+.card img{
+
+  margin-top: 10px;
+box-shadow: 0 70px 63px -60px #000000
+
+}
+
+.card h5{
+    margin-top: 3rem;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.card p{
+    font-size: 18px;
+}
